@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  function_1.c
+c:\users\user\desktop\108360222\lab1-2\source\function_1.c(10): warning C4101: 'temp2': 未參考的區域變數
+c:\users\user\desktop\108360222\lab1-2\source\function_1.c(9): warning C4101: 'temp': 未參考的區域變數
+  function_2.c
+c:\users\user\desktop\108360222\lab1-2\source\function_2.c(10): warning C4101: 'temp2': 未參考的區域變數
+c:\users\user\desktop\108360222\lab1-2\source\function_2.c(9): warning C4101: 'temp': 未參考的區域變數
+  function_3.c
+  function_4.c
+  function_5.c
+c:\users\user\desktop\108360222\lab1-2\source\function_5.c(10): warning C4101: 'temp2': 未參考的區域變數
+  main.c
+c:\users\user\desktop\108360222\lab1-2\source\main.c(6): warning C4013: 'Han_Xin_1' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\108360222\lab1-2\source\main.c(7): warning C4013: 'Han_Xin_2' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\108360222\lab1-2\source\main.c(8): warning C4013: 'Han_Xin_3' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\108360222\lab1-2\source\main.c(9): warning C4013: 'Han_Xin_4' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\108360222\lab1-2\source\main.c(10): warning C4013: 'Han_Xin_5' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...
+c:\users\user\desktop\108360222\lab1-2\source\function_5.c(39): warning C4716: 'Han_Xin_5': 必須傳回值
+c:\users\user\desktop\108360222\lab1-2\source\function_4.c(37): warning C4716: 'Han_Xin_4': 必須傳回值
+c:\users\user\desktop\108360222\lab1-2\source\function_3.c(35): warning C4716: 'Han_Xin_3': 必須傳回值
+c:\users\user\desktop\108360222\lab1-2\source\function_2.c(24): warning C4716: 'Han_Xin_2': 必須傳回值
+c:\users\user\desktop\108360222\lab1-2\source\function_1.c(23): warning C4716: 'Han_Xin_1': 必須傳回值
+  lab1-2.vcxproj -> C:\Users\USER\Desktop\108360222\lab1-2\lab1-2\lab1-2\..\..\temp\debug\lab1-2.exe
